@@ -1,0 +1,28 @@
+C:\Users\gameb\Documents\Code Projecten\C#\DVDScreensaverVirus\bin\Debug\net8.0\DVDScreensaverVirus.exe
+C:\Users\gameb\Documents\Code Projecten\C#\DVDScreensaverVirus\bin\Debug\net8.0\DVDScreensaverVirus.deps.json
+C:\Users\gameb\Documents\Code Projecten\C#\DVDScreensaverVirus\bin\Debug\net8.0\DVDScreensaverVirus.runtimeconfig.json
+C:\Users\gameb\Documents\Code Projecten\C#\DVDScreensaverVirus\bin\Debug\net8.0\DVDScreensaverVirus.dll
+C:\Users\gameb\Documents\Code Projecten\C#\DVDScreensaverVirus\bin\Debug\net8.0\DVDScreensaverVirus.pdb
+C:\Users\gameb\Documents\Code Projecten\C#\DVDScreensaverVirus\obj\Debug\net8.0\DVDScreensaverVirus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gameb\Documents\Code Projecten\C#\DVDScreensaverVirus\obj\Debug\net8.0\DVDScreensaverVirus.AssemblyInfoInputs.cache
+C:\Users\gameb\Documents\Code Projecten\C#\DVDScreensaverVirus\obj\Debug\net8.0\DVDScreensaverVirus.AssemblyInfo.cs
+C:\Users\gameb\Documents\Code Projecten\C#\DVDScreensaverVirus\obj\Debug\net8.0\DVDScreensaverVirus.csproj.CoreCompileInputs.cache
+C:\Users\gameb\Documents\Code Projecten\C#\DVDScreensaverVirus\obj\Debug\net8.0\DVDScreensaverVirus.dll
+C:\Users\gameb\Documents\Code Projecten\C#\DVDScreensaverVirus\obj\Debug\net8.0\refint\DVDScreensaverVirus.dll
+C:\Users\gameb\Documents\Code Projecten\C#\DVDScreensaverVirus\obj\Debug\net8.0\DVDScreensaverVirus.pdb
+C:\Users\gameb\Documents\Code Projecten\C#\DVDScreensaverVirus\obj\Debug\net8.0\DVDScreensaverVirus.genruntimeconfig.cache
+C:\Users\gameb\Documents\Code Projecten\C#\DVDScreensaverVirus\obj\Debug\net8.0\ref\DVDScreensaverVirus.dll
+C:\Users\gameb\Documents\DevProjecten\C#\DVDScreensaverVirus\bin\Debug\net8.0\DVDScreensaverVirus.exe
+C:\Users\gameb\Documents\DevProjecten\C#\DVDScreensaverVirus\bin\Debug\net8.0\DVDScreensaverVirus.deps.json
+C:\Users\gameb\Documents\DevProjecten\C#\DVDScreensaverVirus\bin\Debug\net8.0\DVDScreensaverVirus.runtimeconfig.json
+C:\Users\gameb\Documents\DevProjecten\C#\DVDScreensaverVirus\bin\Debug\net8.0\DVDScreensaverVirus.dll
+C:\Users\gameb\Documents\DevProjecten\C#\DVDScreensaverVirus\bin\Debug\net8.0\DVDScreensaverVirus.pdb
+C:\Users\gameb\Documents\DevProjecten\C#\DVDScreensaverVirus\obj\Debug\net8.0\DVDScreensaverVirus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gameb\Documents\DevProjecten\C#\DVDScreensaverVirus\obj\Debug\net8.0\DVDScreensaverVirus.AssemblyInfoInputs.cache
+C:\Users\gameb\Documents\DevProjecten\C#\DVDScreensaverVirus\obj\Debug\net8.0\DVDScreensaverVirus.AssemblyInfo.cs
+C:\Users\gameb\Documents\DevProjecten\C#\DVDScreensaverVirus\obj\Debug\net8.0\DVDScreensaverVirus.csproj.CoreCompileInputs.cache
+C:\Users\gameb\Documents\DevProjecten\C#\DVDScreensaverVirus\obj\Debug\net8.0\DVDScreensaverVirus.dll
+C:\Users\gameb\Documents\DevProjecten\C#\DVDScreensaverVirus\obj\Debug\net8.0\refint\DVDScreensaverVirus.dll
+C:\Users\gameb\Documents\DevProjecten\C#\DVDScreensaverVirus\obj\Debug\net8.0\DVDScreensaverVirus.pdb
+C:\Users\gameb\Documents\DevProjecten\C#\DVDScreensaverVirus\obj\Debug\net8.0\DVDScreensaverVirus.genruntimeconfig.cache
+C:\Users\gameb\Documents\DevProjecten\C#\DVDScreensaverVirus\obj\Debug\net8.0\ref\DVDScreensaverVirus.dll
